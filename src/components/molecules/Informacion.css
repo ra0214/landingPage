@@ -1,0 +1,19 @@
+.informacion-container {
+    padding: 10px;
+}
+  
+.informacion-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+  
+.informacion-item {
+    text-align: center;
+}
+
+.informacion-item span {
+    display: block;
+    margin-top: 30px;
+    text-align: justify;
+}

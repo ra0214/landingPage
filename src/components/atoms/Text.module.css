@@ -1,0 +1,8 @@
+.pg_text {
+    color: rgb(0, 0, 0);
+    align-items: flex-start;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 35px;
+}
